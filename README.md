@@ -2,7 +2,7 @@
 
 **Formation and experience:**
 - Graduated in computer science in [UMA](https://www.uma.es/etsi-informatica/).
-- Follow the youtube show [Handmade Hero](https://handmadehero.org/).
+- Followed the youtube show [Handmade Hero](https://handmadehero.org/).
 - 4 years of experience as a Python programmer developing backend microservices and using machine learning for keyword extraction and classification at [CleverAds](https://cleverads.com/).
 - 4 years of experience in C/C++ working on my own code.
 - I love working on low level systems such as game engines, compilers or simulations.
